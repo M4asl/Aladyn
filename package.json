@@ -8,8 +8,15 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "10.2.3",
+    "framer-motion": "^5.5.1",
+    "next": "^12.0.4",
+    "prop-types": "^15.7.2",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-icons": "^4.3.1",
+    "sass": "^1.34.0",
+    "styled-components": "^5.3.3",
+    "styled-normalize": "^8.0.7",
+    "swiper": "^7.3.3"
   }
 }

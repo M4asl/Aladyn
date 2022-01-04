@@ -1,0 +1,10 @@
+.mySlide {
+  width: 346px;
+  height: 477px;
+}
+
+@media only screen and (max-width: 480px) {
+  .mySlide {
+    width: 300px;
+  }
+}
